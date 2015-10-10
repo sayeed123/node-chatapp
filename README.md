@@ -1,3 +1,3 @@
-A simple chatroom built in [Node.js](http://nodejs.org) using [Express](http://expressjs.com) + [Socket.IO](http://socket.io/).
+A chatroom built in [Node.js](http://nodejs.org) using [Express](http://expressjs.com) + [Socket.IO](http://socket.io/).
 
-A tutorial on how it's built is [here](http://williammora.com/nodejs-tutorial-building-chatroom-with/).
+Road Map: Will use Mango DB + Angular.js to make it better.
